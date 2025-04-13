@@ -19,6 +19,14 @@ There are two ways to run the script, depending on your preference:
 
 ---
 
+## Before run the script
+
+make sure you're in root user:
+
+```bash
+sudo su
+```
+
 ### 🔹 Option 1: Run Directly from GitHub (Quick & Easy)
 
 This method is ideal if you want to execute the script instantly without cloning the repository.
